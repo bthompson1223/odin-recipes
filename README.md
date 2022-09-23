@@ -1,0 +1,1 @@
+This project is the first project in The Odin Project curriculum. The goal of this project is demonstrate my basic understandings of git commands, Bash commands, and HTML writing to create a basic recipe website.
